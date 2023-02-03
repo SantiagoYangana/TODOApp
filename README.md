@@ -10,7 +10,7 @@ TODO app consta de un CRUD basico de las tareas utilizando FireBase
 - Actualizar una tarea en especifico
 - Eliminar una tarea
 
-Se recomienda instalar las siguientes dependencias haciendo uso de los siguientes comandos:
+Se recomienda instalar las dependencias haciendo uso de los siguientes comandos:
 - npm install -g @ionic/cli
 - npm i firebase @angular/fire
 
