@@ -14,5 +14,5 @@ Se recomienda instalar las siguientes dependencias haciendo uso de los siguiente
 - npm install -g @ionic/cli
 - npm i firebase @angular/fire
 
-Para ejecutar proyecto
+Para ejecutar proyecto:
 - ionic serve --lab
